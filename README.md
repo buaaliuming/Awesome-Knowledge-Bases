@@ -11,3 +11,7 @@ In this page, I will matain the current available knowledge bases for quick usea
 API接口返回的数据格式全部为Json格式，本项目开放了问答机器人、知识图谱、语义理解。知识图谱融合了两千五百多万的实体，拥有亿级别的实体属性关系，机器人采用了基于知识图谱的语义感知与理解。
 
 ### [OpenKG](http://openkg.cn/) 开放的中文知识图谱
+
+### [XLORE](https://xlore.org/) 千万级概念实体和亿级实体大规模跨语言知识图谱
+
+### [OpenHowNet](https://openhownet.thunlp.org/)基于义原的开放语言知识库
